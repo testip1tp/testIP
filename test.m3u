@@ -1,3 +1,18 @@
 #EXTM3U
-#EXTINF:-1,PT SPORT TV 1 HD
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 1 HD iptvlister.com
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62071#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 2 iptvlister.com
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62079#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 3 iptvlister.com
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 4 HD iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58884.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 5 iptvlister.com
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/62082#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",ELEVEN SPORTS 3 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58890.ts#checkedby:iptvlister.com
