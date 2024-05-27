@@ -1,1 +1,85 @@
 
+#EXTM3U
+#EXTINF:-1 group-title="PORTUGAL",RTP 1
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58778.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",RTP 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62053#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",SIC
+http://cord-cutter.net:8080/QSM8Qr/404367/78501#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",TVI
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58789.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",RTP 3
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58781.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",CNN
+http://cord-cutter.net:8080/X5xRz0/944877/164802#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",CMTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",Porto Canal
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62050#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Canal 11
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61985#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Sport TV+
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62077#checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="SPORTS",Sport TV 1
+http://cord-cutter.net:8080/X5xRz0/944877/78513#checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Sport_TV2_HD.svg/revision/latest/scale-to-width-down/200?cb=20160903153212" group-title="SPORTS",Sport TV 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62079#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Sport TV 3
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Sport TV 4
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58884.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Sport TV 5
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58886.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",BTV
+http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/61984#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58888.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 2
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58889.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 3
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58890.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 4
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58891.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 5
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58892.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Eleven Sports 6
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58893.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Toros TV
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62088#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="DOCUMENTARY",Discovery Channel
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61996#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="DOCUMENTARY",ODISSEIA
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62046#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="DOCUMENTARY",National Geographic
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62041#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="DOCUMENTARY",National Geographic Wild
+http://cord-cutter.net:8080/k4Svp2/645504/78425#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="DOCUMENTARY",Canal de Historia
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61987#checkedby:iptvlister.com
