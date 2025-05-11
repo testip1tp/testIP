@@ -1,1 +1,30 @@
+#EXTM3U
+#EXTINF:-1 group-title="PORTUGAL",RTP 1
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58778.ts#checkedby:iptvlister.com
 
+#EXTINF:-1 group-title="PORTUGAL",RTP 2
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62053#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",SIC
+http://cord-cutter.net:8080/QSM8Qr/404367/78501#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",TVI
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/58789.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",RTP 3
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/58781.ts#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",CNN
+http://cord-cutter.net:8080/X5xRz0/944877/164802#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",CMTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="PORTUGAL",Porto Canal
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62050#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Canal 11
+http://2hubs.ddns.net:25461/loganexch/piB1FRmRt6/61985#checkedby:iptvlister.com
+
+#EXTINF:-1 group-title="SPORTS",Sport TV+
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62077#checkedby:iptvlister.com
